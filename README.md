@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @justarandomeng
+- 👀 I’m interested in programming random stuff for productivity mostly
+- 🌱 I’m currently learning machine learning
